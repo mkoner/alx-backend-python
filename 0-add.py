@@ -3,6 +3,7 @@
 Module for variable annotations in Python
 '''
 
+
 def add(a: float, b: float) -> float:
     '''
     Function that adds two floats with annotations
