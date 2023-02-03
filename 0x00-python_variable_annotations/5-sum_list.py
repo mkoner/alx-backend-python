@@ -5,6 +5,7 @@ Module for variable annotations in Python
 
 from typing import List
 
+
 def sum_list(input_list: List[float]) -> float:
     '''
     Function that accepts a list of floats and returns the
